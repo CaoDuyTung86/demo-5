@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class PlayerHealth : Health
@@ -6,5 +7,10 @@ public class PlayerHealth : Health
     {
         base.Die();
         Debug.Log("Player died");
+    }
+
+    internal void TakeDamage(int damage)
+    {
+        throw new NotImplementedException();
     }
 }
