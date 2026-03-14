@@ -1,19 +1,19 @@
-using UnityEngine;
+public System.Action onDead;
+public System.Action onHealthChanged;
+public int healthPoint;
 
-public class Health : MonoBehaviour
+private static void Start()
 {
-    public GameObject explosionPrefab;
-    public int defaultHealthPoint = 3;
+    healthPoint = defaultHealthPoint;
+    onHealthChanged?.Invoke();
+}
 
-    public System.Action onDead;
+public void TakeDamage(int damage)
+{
+    if (healthPoint <= 0) return;
 
-    protected virtual void Die()
-    {
-        var explosion = Instantiate(explosionPrefab, transform.position, transform.rotation);
-        Destroy(explosion, 1);
+    healthPoint -= damage;
+    onHealthChanged?.Invoke();
 
-        Destroy(gameObject);
-
-        onDead?.Invoke();
-    }
+    if (healthPoint <= 0) Die();
 }

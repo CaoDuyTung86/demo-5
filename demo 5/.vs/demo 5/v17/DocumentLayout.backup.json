@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\unity project\\demo-5\\demo 5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\flypath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\flypath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|d:\\unity project\\demo-5\\demo 5\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|d:\\unity project\\demo-5\\demo 5\\assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\scrollingbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scrollingbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|d:\\unity project\\demo-5\\demo 5\\assets\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\battleflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\battleflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|solutionrelative:assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,6 +49,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|solutionrelative:assets\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\bulletsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,32 +82,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Bullet.cs",
-              "ToolTip": "D:\\unity project\\demo-5\\demo 5\\Assets\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Bullet.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBIAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\HealthBar.cs",
+              "ToolTip": "D:\\unity project\\demo-5\\demo 5\\Assets\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T04:09:38.163Z",
+              "WhenOpened": "2026-03-14T10:02:05.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ScrollingBackground.cs",
-              "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\ScrollingBackground.cs",
-              "RelativeDocumentMoniker": "Assets\\ScrollingBackground.cs",
-              "ToolTip": "D:\\unity project\\demo-5\\demo 5\\Assets\\ScrollingBackground.cs",
-              "RelativeToolTip": "Assets\\ScrollingBackground.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "Waypoint.cs",
+              "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\Waypoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Waypoint.cs",
+              "ToolTip": "D:\\unity project\\demo-5\\demo 5\\Assets\\Waypoint.cs",
+              "RelativeToolTip": "Assets\\Waypoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T04:09:01.606Z"
+              "WhenOpened": "2026-03-14T09:58:08.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FlyPath.cs",
+              "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\FlyPath.cs",
+              "RelativeDocumentMoniker": "Assets\\FlyPath.cs",
+              "ToolTip": "D:\\unity project\\demo-5\\demo 5\\Assets\\FlyPath.cs",
+              "RelativeToolTip": "Assets\\FlyPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:55:32.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EnemyAttack.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\EnemyAttack.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyAttack.cs",
@@ -111,21 +129,19 @@
               "RelativeToolTip": "Assets\\EnemyAttack.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T04:06:14.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T04:06:14.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyHealth.cs",
               "ToolTip": "D:\\unity project\\demo-5\\demo 5\\Assets\\EnemyHealth.cs",
               "RelativeToolTip": "Assets\\EnemyHealth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T03:57:30.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T03:57:30.609Z"
             },
             {
               "$type": "Document",
@@ -141,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Health.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\Health.cs",
@@ -149,7 +165,8 @@
               "RelativeToolTip": "Assets\\Health.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T03:37:03.316Z"
+              "WhenOpened": "2026-03-07T03:37:03.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -177,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "BulletSound.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\BulletSound.cs",
               "RelativeDocumentMoniker": "Assets\\BulletSound.cs",
@@ -189,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "PlayerShooting.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
               "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
@@ -201,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EnemyAttack.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\EnemyAttack.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyAttack.cs",
@@ -213,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "Bullet.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Bullet.cs",
@@ -225,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyHealth.cs",
@@ -249,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\Space Shooter Template FREE\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\Enemy.cs",
@@ -261,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerHealth.cs",

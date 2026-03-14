@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "D:\\unity project\\demo-5\\demo 5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|d:\\unity project\\demo-5\\demo 5\\assets\\battleflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|d:\\unity project\\demo-5\\demo 5\\assets\\flypath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\flypath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\battleflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\battleflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7D6A61F-D1AD-0977-7F97-A7032A976C5E}|Assembly-CSharp.csproj|solutionrelative:assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{118A5490-868B-1F4D-4D9C-66004D474253}|Assembly-CSharp.csproj|D:\\unity project\\demo-5\\demo 5\\assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +78,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\HealthBar.cs",
+              "ToolTip": "D:\\unity project\\demo-5\\demo 5\\Assets\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T10:02:05.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Waypoint.cs",
+              "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\Waypoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Waypoint.cs",
+              "ToolTip": "D:\\unity project\\demo-5\\demo 5\\Assets\\Waypoint.cs",
+              "RelativeToolTip": "Assets\\Waypoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:58:08.557Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "FlyPath.cs",
+              "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\FlyPath.cs",
+              "RelativeDocumentMoniker": "Assets\\FlyPath.cs",
+              "ToolTip": "D:\\unity project\\demo-5\\demo 5\\Assets\\FlyPath.cs",
+              "RelativeToolTip": "Assets\\FlyPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T09:55:32.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EnemyAttack.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\EnemyAttack.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyAttack.cs",
@@ -82,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyHealth.cs",
@@ -94,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "BattleFlow.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\BattleFlow.cs",
               "RelativeDocumentMoniker": "Assets\\BattleFlow.cs",
@@ -102,24 +151,24 @@
               "RelativeToolTip": "Assets\\BattleFlow.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAxwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T03:38:51.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T03:38:51.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Health.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\Health.cs",
               "ToolTip": "D:\\unity project\\demo-5\\demo 5\\Assets\\Health.cs",
               "RelativeToolTip": "Assets\\Health.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-07T03:37:03.316Z"
+              "WhenOpened": "2026-03-07T03:37:03.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
@@ -131,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\GameManager.cs",
@@ -143,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "BulletSound.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\BulletSound.cs",
               "RelativeDocumentMoniker": "Assets\\BulletSound.cs",
@@ -155,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "PlayerShooting.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
               "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
@@ -167,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "EnemyAttack.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\EnemyAttack.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyAttack.cs",
@@ -179,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Bullet.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Bullet.cs",
@@ -191,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\EnemyHealth.cs",
@@ -203,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Health.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\Health.cs",
@@ -215,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\Space Shooter Template FREE\\Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\Enemy.cs",
@@ -227,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "D:\\unity project\\demo-5\\demo 5\\Assets\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerHealth.cs",
